@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InsuranceProvider>
+  <Provider>
+    <Company>Axa</Company>
+    <LoadTime>4.3336898999999995</LoadTime>
+    <CodeQuality>6</CodeQuality>
+    <Size>77740</Size>
+    <SocialInterest>8</SocialInterest>
+    <MobileUsability>10</MobileUsability>
+    <MetaTags>10</MetaTags>
+  </Provider>
+  <Provider>
+    <Company>FirstCentral</Company>
+    <LoadTime>1.8495555</LoadTime>
+    <CodeQuality>3</CodeQuality>
+    <Size>35457</Size>
+    <SocialInterest>9</SocialInterest>
+    <MobileUsability>10</MobileUsability>
+    <MetaTags>10</MetaTags>
+  </Provider>
+  <Provider>
+    <Company>Aviva</Company>
+    <LoadTime>0.7619169</LoadTime>
+    <CodeQuality>5</CodeQuality>
+    <Size>48079</Size>
+    <SocialInterest>9</SocialInterest>
+    <MobileUsability>10</MobileUsability>
+    <MetaTags>10</MetaTags>
+  </Provider>
+  <Provider>
+    <Company>Aig</Company>
+    <LoadTime>0.8125619</LoadTime>
+    <CodeQuality>3</CodeQuality>
+    <Size>26865</Size>
+    <SocialInterest>5</SocialInterest>
+    <MobileUsability>10</MobileUsability>
+    <MetaTags>2</MetaTags>
+  </Provider>
+</InsuranceProvider>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InsuranceProvider>
+  <InsuranceProvider Company="Axa" LoadTime="0.7576202" CodeQuality="6" Size="77740" SocialInterest="8" MobileUsability="10" MetaTags="10" />
+  <InsuranceProvider Company="FirstCentral" LoadTime="1.2117700999999999" CodeQuality="3" Size="35457" SocialInterest="9" MobileUsability="10" MetaTags="10" />
+  <InsuranceProvider Company="Aviva" LoadTime="0.55973679999999992" CodeQuality="5" Size="48079" SocialInterest="9" MobileUsability="10" MetaTags="10" />
+  <InsuranceProvider Company="Aig" LoadTime="0.491679" CodeQuality="3" Size="26865" SocialInterest="5" MobileUsability="10" MetaTags="2" />
+</InsuranceProvider>
